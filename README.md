@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-ThugGodTools-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE-orange?colorM%20IN-INDIA-green?colorI=%23ff0000&colorI=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/MADE-IN-INDIA?-Orange?White?Green?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
