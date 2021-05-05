@@ -136,14 +136,14 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-     		${Red}.                           ╔╝╚╗        ╔╗              ╔╗
-               ${Blue                          ╚╗╚╝╔╝     ║║              ║║
-               ${Red}.                           ╚╗╔╝╔══╣╚═╦╦══╣╚═╦══╦═
-               ${Blue}                          ═╗ ╔═║╔╗║╔╗╠╣══╣╔╗║║═╣╔╝ ----
+     		${Red}.                        ╔╝╚╗   ╔╗      ╔╗
+               ${Blue                         ╚╗╚╝╔╝  ║║      ║║
+               ${Red}.                         ╚╗╔╝╔══╣╚═╦╦══╣╚═╦══╦═
+               ${Blue}                        ═╗ ╔═║╔╗║╔╗╠╣══╣╔╗║║═╣╔╝ ----
                ${Red}.                        ╔╝╔╗╚╣╚╝║║║║╠══║║║║║═╣║
                ${Blue}                        ╚═╝╚═╣╔═╩╝╚╩╩══╩╝╚╩══╩╝
-               ${Red}                                       ║║
-               ${Blue}                                      ╚║	
+               ${Red}                               ║║
+               ${Blue}                              ╚║	
                                                                                                                                 ${Cyan}Version : 1.9
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ThugGodTools (IG -_yadu.x)${WHITE}
@@ -154,7 +154,7 @@ banner() {
 banner_small() {
 	cat <<- EOF
  		${GREEN}
-          ${GREEN}   ▀▄▀ █▀█ █░█ █ █▀ █░█ █▀▀ █▀█
+          ${GREEN}     ▀▄▀ █▀█ █░█ █ █▀ █░█ █▀▀ █▀█
           $CYAN        █░█ █▀▀ █▀█ █ ▄█ █▀█ ██▄ █▀▄
 		${GREEN}  
 		${CYAN} 
