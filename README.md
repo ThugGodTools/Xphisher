@@ -79,4 +79,6 @@ $ docker run --rm -it ThugGodTools/xphisher
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/ThugGodTools" target="_blank"><img src="https://img.shields.io/badge/Github-ThugGodTools-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/_yadu.x" target="_blank"><img 
+  <a href="https://www.instagram.com/_yadu.x" target="_blank"><img src="https://img.shields.io/badge/www.instagram.com/_yadu.x-cyan?style=for-the-badge&logo=Instagram"></a>
+                                                                
+                                                                src="https://img.shields.io/badge/www.instagram.com/_yadu.x-cyan?=for-the-badge&logo=Instagram"><
