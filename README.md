@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.9-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.9-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/ThugGodTools/xphisher?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/ThugGodTools/xphisher?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/ThugGodTools/xphisher?color=red&style=for-the-badge">
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-ThugGodTools-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
@@ -23,7 +23,7 @@
 
 ##
 
-### Features ### I G - _yadu.x
+### Features
 
 - Latest and updated login pages.
 - Mask URL support 
@@ -52,7 +52,7 @@ $ bash xphisher.sh
 ### Run on Docker
 ```
 $ docker pull ThugGodTools/xphisher
-$ docker run --rm -it ThugGodTools/zphisher
+$ docker run --rm -it ThugGodTools/xphisher
 ```
 
 ### Dependencies
